@@ -1,6 +1,34 @@
-# testdrive
+# BuatIn for client
 
-A new Flutter application.
+ini adalah aplikasi BuatIn untuk client, dibuat dengan database NoSQL menggunakan firestore milik firebase.
+
+
+# Berikut adalah Screen Shot dari aplikasi BuatIn
+
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-User/blob/master/image/user1.jpg)
+
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-User/blob/master/image/user2.jpg)
+
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-User/blob/master/image/user3.jpg)
+
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-User/blob/master/image/user4.jpg)
+
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-User/blob/master/image/user5.jpg)
+
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-User/blob/master/image/user6.jpg)
+
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-User/blob/master/image/user7.jpg)
+
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-User/blob/master/image/user8.jpg)
+
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-User/blob/master/image/user9.jpg)
+
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-User/blob/master/image/user10.jpg)
+
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-User/blob/master/image/user11.jpg)
+
+![Image of BuatIn](https://github.com/QiuRRQ/BuatIn-for-User/blob/master/image/user12.jpg)
+
 
 ## Getting Started
 
